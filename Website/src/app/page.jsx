@@ -644,11 +644,10 @@ function MainComponent() {
               <div className='space-y-3'>
                 <p>
                   <i className='fas fa-map-marker-alt mr-2 text-[#1a365d]'></i>{' '}
-                  123 Main Street, Islamabad
+                  Office no.02,First floor,ZEE Heights, Islamabad
                 </p>
                 <p>
-                  <i className='fas fa-phone mr-2 text-[#1a365d]'></i> +92 300
-                  1234567
+                  <i className='fas fa-phone mr-2 text-[#1a365d]'></i> (051) 9675184
                 </p>
                 <p>
                   <i className='fas fa-envelope mr-2 text-[#1a365d]'></i>{' '}
@@ -665,10 +664,10 @@ function MainComponent() {
           <div>
             <h3 className='text-xl font-bold mb-4'>Contact Us</h3>
             <p>
-              <i className='fas fa-phone mr-2'></i> +92 300 1234567
+              <i className='fas fa-phone mr-2'></i> (051) 9675184
             </p>
             <p>
-              <i className='fas fa-envelope mr-2'></i> info@realestate.pk
+              <i className='fas fa-envelope mr-2'></i> info@realestatepakistan.pk
             </p>
           </div>
           <div>

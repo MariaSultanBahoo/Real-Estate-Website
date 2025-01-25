@@ -1,28 +1,50 @@
-This project was generated from [create.xyz](https://create.xyz/).
+# Real Estate Pakistan
 
-It is a [Next.js](https://nextjs.org/) project built on React and TailwindCSS.
+## Description  
+Real Estate Pakistan is a modern property marketplace that connects users with expert real estate agents and simplifies the process of buying, selling, or renting properties. This application features a responsive frontend built with **React.js** and a robust backend powered by **Spring Boot** and **MongoDB**.
 
-## Getting Started
+---
 
-First, run the development server:
+## Features  
+- **Dynamic Frontend**: A user-friendly React.js interface for seamless navigation.
+- **Property Listings**: Search and filter properties across major cities.
+- **Expert Team Profiles**: View profiles of real estate professionals.
+- **Contact Us**: Easily reach out to agents via an integrated contact form.
+- **Live Chatbot**: Get instant answers to your property-related questions.
+  
+---
 
-```bash
-npm run dev
-# or
-yarn dev
-# or
-pnpm dev
-# or
-bun dev
-```
+## Tech Stack  
+- **Frontend**: React.js, Tailwind CSS  
+- **Backend**: Spring Boot  
+- **Database**: MongoDB  
 
-Open [http://localhost:3000](http://localhost:3000) with your browser to see the result.
+---
 
-You can start editing the code in `src`. The page auto-updates as you edit the file.
+## Installation  
 
-To learn more, take a look at the following resources:
+### Prerequisites  
+- Node.js  
+- Java (JDK 11 or later)  
+- MongoDB  
 
-- [React Documentation](https://react.dev/) - learn about React
-- [TailwindCSS Documentation](https://tailwindcss.com/) - learn about TailwindCSS
-- [Next.js Documentation](https://nextjs.org/docs) - learn about Next.js features and API.
-- [Learn Next.js](https://nextjs.org/learn) - an interactive Next.js tutorial.
+### Steps  
+
+1. 1. **Clone the Repository**  
+   ```bash
+   git clone https://github.com/MariaSultanBahoo/Real-Estate-Website.git
+   cd real-estate-pakistan
+
+2. Frontend Setup
+cd frontend
+npm install
+npm start
+
+3. Backend Setup
+Navigate to the backend folder.
+Configure MongoDB connection in application.properties.
+Build and run the Spring Boot application:
+./mvnw spring-boot:run
+
+4. Open your browser at http://localhost:3000 to view the application.
+
